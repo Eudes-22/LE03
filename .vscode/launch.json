@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Aluno",
+            "request": "launch",
+            "mainClass": "Aluno",
+            "projectName": "lista 3_a53372d9"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1Aluno",
+            "request": "launch",
+            "mainClass": "Exercicio1Aluno",
+            "projectName": "lista 3_a53372d9"
+        },
+        {
+            "type": "java",
+            "name": "Automovel",
+            "request": "launch",
+            "mainClass": "Automovel",
+            "projectName": "lista 3_a53372d9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        }
+    ]
+}
